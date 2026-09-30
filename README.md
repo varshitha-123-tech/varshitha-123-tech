@@ -1,6 +1,6 @@
 # Hi, I'm Varshita 👋
 
-**Software Engineer** who enjoys building things end-to-end — from data pipelines and machine learning models to full-stack web applications and AI-powered tools. My projects span **data engineering, NLP, full-stack development, and AI integration**.
+**Software Engineer** who enjoys building things end-to-end — from data pipelines and machine learning models to full-stack web applications and AI-powered tools. My projects span ** full-stack development, AI integration, NLP and Data engineering**.
 
 ## What I work on
 
